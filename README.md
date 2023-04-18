@@ -9,3 +9,4 @@ If you want to contribute or subscribe the changes, please email us to beyongfre
 - Text to Song
 - AI Music
 - AI Sound Effects
+- DeNoise AI
