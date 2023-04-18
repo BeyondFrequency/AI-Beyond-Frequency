@@ -6,3 +6,4 @@ A community about fields that are related to frequencies and beyond.
 - Speech to Text (STT)
 - Text to Song
 - AI Music
+- AI Sound/Voice
