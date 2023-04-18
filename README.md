@@ -5,9 +5,9 @@ If you want to contribute or subscribe the changes, please email us to beyongfre
 
 ## Interested Fields
 - Text to Speech (TTS)
--- Voice conversion (VC)
--- Emotional speech synthesis
--- Voice cloning
+** Voice conversion (VC)
+** Emotional speech synthesis
+** Voice cloning
 - Speech to Text (STT)
 - Text to Song
 - AI Music
