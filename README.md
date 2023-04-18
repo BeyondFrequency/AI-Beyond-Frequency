@@ -10,3 +10,10 @@ If you want to contribute or subscribe the changes, please email us to beyongfre
 - AI Music
 - AI Sound Effects
 - DeNoise AI
+
+## Focus of Progress
+- Conferences
+- Papers
+- Products
+- (Open-source) projects
+- Techniques
